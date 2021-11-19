@@ -3,4 +3,5 @@ document.addEventListener("DOMContentLoaded", () => {
     // jsはキャメルケースでの記述が推奨されているので変数名を少し改良
     const userName;
     const userResult;
+    userName = prompt("お名前を教えてください。");
 }, false);
