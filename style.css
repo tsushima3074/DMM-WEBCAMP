@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* 画像の大きさを指定 */
+img {
+  height: 100px;
+}
+
+/* 名前の色を青色にする */
+#name {
+  color: blue;
+}
+
+/* おみくじの結果の色を変える */
+#result {
+  color: green;
+}
