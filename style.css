@@ -9,3 +9,8 @@ img {
 #name {
   color: blue;
 }
+
+/* おみくじの結果の色を変える */
+#result {
+  color: green;
+}
